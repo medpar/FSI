@@ -1,2 +1,2 @@
-- [] Revisar ej6 P2.1
-- [] Hacer memoria P2.1
+- [ ] Revisar ej6 P2.1
+- [ ] Hacer memoria P2.1
