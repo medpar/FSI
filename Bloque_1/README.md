@@ -2,7 +2,9 @@
 Iconos: https://tabler.io/icons
 
 ## To Do
-- [ ] Arreglar micro
+- [ ] Arreglar función grabar
+- [ ] Guardar ficheros global (Microfono, Generador, Suma...)
+- [ ] Sumar señales
   
 ## Funcionalidades:
 
