@@ -1,3 +1,6 @@
+## Importante
+- En los callbacks, sólo meter código para llamar a una function que realice la acción que queramos. De este modo, es mucho más fácil editar y al usar chatgpt se puede hacer copypaste directamente.
+
 ## Recursos
 Iconos: https://tabler.io/icons
 
@@ -5,6 +8,7 @@ Iconos: https://tabler.io/icons
 - [ ] Arreglar función grabar
 - [ ] Guardar ficheros global (Microfono, Generador, Suma...)
 - [ ] Sumar señales
+- [ ] Al cargar un fichero de audio, te da a elegir si quieres cargarlo en el slot 1 o en el 2. Si ya hay uno ocupado, lo carga en el siguiente
   
 ## Funcionalidades:
 
