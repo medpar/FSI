@@ -4,6 +4,9 @@
 ## Recursos
 Iconos: https://tabler.io/icons
 
+## Prompts
+- Dame solo el codigo para las funciones. No me des ningun codigo de otra parte del programa
+
 ## To Do
 - [ ] Arreglar función grabar
 - [ ] Guardar ficheros global (Microfono, Generador, Suma...)
