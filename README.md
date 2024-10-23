@@ -1,2 +1,1 @@
-- [ ] Revisar ej6 P2.1
-- [ ] Hacer memoria P2.1
+Repositorio para Lab FSI imagen y sonido

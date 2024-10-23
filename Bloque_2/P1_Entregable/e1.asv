@@ -1,0 +1,27 @@
+% Generar y representar una imagen binaria de tamaño 256x256
+% correspondiente a la máscara con radios de 32 y 128 píxeles
+
+size = 256;
+radio_a = 32;
+radio_b = 128;
+
+% Crear una matriz de ceros de tamaño 256x256
+mask = zeros(size);
+
+% Calcular el centro de la imagen
+center = size / 2;
+
+% Recorrer cada píxel de la imagen para verificar si está dentro de la corona circular
+for x = 1:size
+    for y = 1:size
+        distancia = sqrt((x - center)^2 + (y - center)^2);
+        if distance >= radio_a && distance <= radio_b
+            mask(x, y) = 1;
+        end
+    end
+end
+
+% Representar la imagen binaria
+imshow(mask);
+colormap(gray);
+title('Máscara binaria con radios 32 y 128 píxeles');
