@@ -14,4 +14,4 @@ hsv_img = cat(3, hue, saturation, value);
 rgb_img = hsv2rgb(hsv_img);
 
 imshow(rgb_img);
-title('Carta de colores HSV con variación diagonal del tinte y saturación');
+title('Carta con variación diagonal del tinte y saturación');
