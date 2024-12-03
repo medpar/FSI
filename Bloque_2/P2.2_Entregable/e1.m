@@ -2,6 +2,9 @@
 
 img = imread('peppers.png');
 %Asegurar que la imagen esté en formato double en el rango [0, 1]
+imshow(img);
+title('Imagen original');
+pause
 img = im2double(img);
 
 % Convertir la imagen al espacio de color HSV
