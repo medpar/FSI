@@ -1,3 +1,4 @@
+
 %Apartado 1: Cargar y desaturar la imagen
 
 img = imread('peppers.png');
