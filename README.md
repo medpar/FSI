@@ -2,7 +2,7 @@
 
 # 🎵 Audio Signal Analysis & Processing Suite
 
-**A complete desktop application for recording, visualizing, processing and analyzing audio signals — built from scratch in MATLAB App Designer.**
+**A complete desktop application for recording, visualizing, processing and analyzing audio signals built from scratch in MATLAB App Designer.**
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2024b-orange.svg)](https://www.mathworks.com/products/matlab.html)
 [![Signal Processing](https://img.shields.io/badge/Toolbox-Signal%20Processing-blue.svg)](https://www.mathworks.com/products/signal.html)
